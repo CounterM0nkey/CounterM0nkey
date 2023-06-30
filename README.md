@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CounterM0nkey
 - 👀 I’m interested in Microsoft Power Platform
 - 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me k.c.premo@gmail.com
 
 <!---
